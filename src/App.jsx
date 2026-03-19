@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return ( 
 
-      <div className=" bg-[#030101]">
+      <div className=" bg-[#030101] min-h-screen flex justify-center">
         {/* IMAGE */}
         {/* <img
           src="/images/icecream.png"
