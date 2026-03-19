@@ -11,7 +11,7 @@ export default function CTASection() {
         className="backdrop-blur-md bg-white/10 border border-white/20 rounded-2xl p-8 text-center"
       >
 
-        <p className="text-lg text-white mb-6 drop-shadow-[0_2px_8px_rgba(0,0,0,0.6)]">
+        <p className="text-base text-white mb-6 drop-shadow-[0_2px_8px_rgba(0,0,0,0.6)]">
           Danke für deine Zeit und deinen Appetit auf neue Projekte.
         </p>
 
@@ -20,7 +20,7 @@ export default function CTASection() {
             href="mailto:kawolf6388@gmail.com?subject=Projektanfrage&body=Hallo Katharina,"
             whileHover={{ scale: 1.08 }}
             whileTap={{ scale: 0.95 }}
-            className="bg-green-700 hover:bg-green-600 px-6 py-2 rounded-lg text-base transition inline-block cursor-pointer focus:outline-none"
+            className="bg-green-700 hover:bg-green-600 px-6 py-2 rounded-lg text-sm transition inline-block cursor-pointer focus:outline-none"
           >
             Schreib mir eine Mail →
           </motion.a>
@@ -31,7 +31,7 @@ export default function CTASection() {
             rel="noopener noreferrer"
             whileHover={{ scale: 1.1 }}
             whileTap={{ scale: 0.95 }}
-            className="bg-white/80 text-black px-3 py-2 rounded-lg text-base font-semibold"
+            className="bg-white/80 text-black px-3 py-2 rounded-lg text-sm font-semibold"
           >
             In
           </motion.a>

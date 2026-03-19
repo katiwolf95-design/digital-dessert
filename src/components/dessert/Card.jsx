@@ -7,7 +7,7 @@ export default function Card({ title, text }) {
 
       <h3 className="font-semibold text-white text-lg">{title}</h3>
 
-      <p className="text-base text-white mt-3 drop-shadow-[0_2px_7px_rgba(0,0,0,1)]">
+      <p className="text-sm text-white mt-3 drop-shadow-[0_2px_7px_rgba(0,0,0,1)]">
         {text}
       </p>
 
