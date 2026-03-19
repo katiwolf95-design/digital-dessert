@@ -4,7 +4,7 @@ export default function Menu() {
     return (
         <section className="py-16 md:py-24 px-6">
 
-            <h2 className="text-center font-playfair italic text-2xl md:text-3xl text-rose-600 mb-20 animate-fadeUp">
+            <h2 className="text-center font-playfair italic text-2xl md:text-3xl text-rose-500 mb-20 animate-fadeUp">
                 Die Geschmacksrichtungen meiner Arbeit
             </h2>
 

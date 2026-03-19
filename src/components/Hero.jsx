@@ -7,14 +7,14 @@ export default function Hero() {
             <div className="max-w-4xl mx-auto">
                 <div className="text-3xl mb-4 px-10">
                     <h1 className="
-                    font-playfair italic text-4xl md:text-5xl text-rose-600 
+                    font-playfair italic text-4xl md:text-5xl text-rose-500 
                     mb-8 leading-tight animate-fadeUp"
                     >
                         Schön, dass Du noch Platz für ein Dessert hast
                     
                     </h1>
                 
-                    <span className="inline-block ml-3 animate-float">
+                    <span className="inline-block ml-3 animate-float text-5xl">
                         🍦
                     </span>
                 </div>

@@ -54,7 +54,7 @@ export default function Contact() {
 
            
             <div className="pt-8 md:pt-16">
-                <p className="text-sm tracking-wide text-neutral-400 mb-6">
+                <p className="text-sm tracking-wide text-neutral-800 mb-6">
                     Katharina Wolf · Digital Product Designer · Frontend Developer
                 </p>
             </div>
